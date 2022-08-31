@@ -1,0 +1,6 @@
+client_get sample.txt 127.0.0.1 3000
+client_get test.png 127.0.0.1 3000
+client_get downloads.png 127.0.0.1 3000
+client_get download.png 127.0.0.1 3000
+client_post index.html 127.0.0.1 3000
+client_ha index.html 127.0.0.1 3000

@@ -1,0 +1,4 @@
+We are testing the client-server model
+And we are going to test all the commands
+of the file to assure that
+all the functions are working
